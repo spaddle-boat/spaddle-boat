@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @spaddle-boat
-- 👀 I’m interested in software engineering, security engineering, cryptography, and blockchain development! And poker!
+- 👀 I’m interested in software engineering, security engineering, cryptography, and blockchain development! And poker solvers!
 - 🌱 I’m currently learning cryptography and blockchain development, along with software development with Node.js.
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me ...
